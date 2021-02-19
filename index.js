@@ -1,2 +1,3 @@
-1 + 80
-add()
+function add(a,b) {
+  return a + b;
+}
